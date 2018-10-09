@@ -1,4 +1,3 @@
-#' @title
 #' Paginate through pages of Google Analytics Query responses
 #' 
 #' In case if a single query returns more than 10k rows,the Core Reporting API returns a subset of

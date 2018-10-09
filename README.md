@@ -26,18 +26,18 @@ To get the current development version from github:
 
 ```R
 # require(devtools)
-devtools::install_github("Tatvic/RGoogleAnalytics")
+devtools::install_github("ManuelDeFrancisco/RGoogleAnalytics")
 ```
 
 ## Dependencies
 
-* [httr](http://cran.r-project.org/web/packages/httr/index.html) handles the underlying OAuth2.0 Authorization flow and the API requests
+* [httr](https://cran.r-project.org/package=httr) handles the underlying OAuth2.0 Authorization flow and the API requests
 
-* [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) handles the date manipulation logic underlying Query Partitioning
+* [lubridate](https://cran.r-project.org/package=lubridate) handles the date manipulation logic underlying Query Partitioning
 
 ## Background
 
-Work on RGoogleAnalytics was started by Michael Pearmain at Google. He was supported by Nick Mihailowski (Google) and Vignesh Prajapati (Tatvic). 
+Work on RGoogleAnalytics was started by Michael Pearmain at Google. He was supported by Nick Mihailowski (Google) and Vignesh Prajapati (Tatvic). Current package in CRAN is maintained by Manuel de Francisco Vera (HotelSpecials)
 
 ## Tutorials and Use-cases
 

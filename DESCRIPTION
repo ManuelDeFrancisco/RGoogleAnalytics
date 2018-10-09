@@ -1,12 +1,12 @@
 Package: RGoogleAnalytics
-Version: 0.1.5
+Version: 0.1.6
 Date: 2018-10-01
 Title: R Wrapper for the Google Analytics API
 Author: Michael Pearmain. Contributions from Nick Mihailowski,
-    Vignesh Prajapati, Kushan Shah and Nicolas Remy,
-    person("Jerry", "Who", email = "JerryWho49@googlemail.com", role = c("ctb"))
+    Vignesh Prajapati, Kushan Shah, Nicolas Remy and Manuel de Francisco Vera
+    person("Manuel", "de Francisco", email = "mdefraver@hotelspecials.nl", role = c("ctb"))
 Description: Provides functions for accessing and retrieving data from the
-    Google Analytics API
+    Google Analytics API.
 Maintainer: Manuel de Francisco Vera <manueldefrancisco@gmail.com>
 BugReports: https://github.com/ManuelDeFrancisco/RGoogleAnalytics/issues
 Depends: 
@@ -19,3 +19,4 @@ Suggests:
 License: Apache License 2.0
 NeedsCompilation: no
 Repository: CRAN
+RoxygenNote: 6.0.1
